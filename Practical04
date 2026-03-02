@@ -8,69 +8,67 @@
 <h3 align="center">CS25028</h3>
 <h2 align="center">Time Table</h2>
 
-<table border="2" align="center" cellpadding="10" cellspacing="0" width="80%">
+<table border="2" align="center" cellpadding="10" cellspacing="6" >
         
-<caption><b>Weekly Class Schedule</b></caption>
+<caption><b>My Schedule</b></caption>
 
 <thead bgcolor="lightblue">
    <tr>
-     <th>Day</th>
+     <th>Day/Time</th>
+     <th>7:00 - 8:00</th>
+     <th>8:00 - 9:00</th>
      <th>9:00 - 10:00</th>
-     <th>10:00 - 11:00</th>
-     <th>11:00 - 12:00</th>
-     <th>12:00 - 1:00</th>
-     <th>1:00 - 2:00</th>
-     <th>2:00 - 3:00</th>
+     <th>10:00 - 12:30</th>
    </tr>
 </thead>
 
   <tbody align="center">
   <tr>
      <th bgcolor="lightgreen">Monday</th>
-     <td>Math</td>
-     <td>Physics</td>
-     <td>English</td>
-     <td rowspan="5" bgcolor="orange"><b>LUNCH</b></td>
-     <td>Computer</td>
-     <td>Lab</td>
+     <td>SMP</td>
+     <td>Chem</td>
+     <td rowspan="6" bgcolor="orange"><b>Dinner</b></td>
+     <td>Maths</td>
    </tr>
 
    <tr>
       <th bgcolor="lightgreen">Tuesday</th>
-      <td>English</td>
-      <td>Math</td>
-      <td>Computer</td>
-      <td colspan="2" bgcolor="lightpink"><b>Practical Lab</b></td>
+      <td>EE</td>
+      <td>SMP</td>
+      <td>Maths</td>
     </tr>
 
     <tr>
       <th bgcolor="lightgreen">Wednesday</th>
-      <td>Physics</td>
-      <td>Computer</td>
-      <td>Math</td>
-      <td>English</td>
-      <td>Library</td>
+      <td>Assignments</td>
+      <td>Maths</td>
+      <td>Web Designing</td>
     </tr>
 
     <tr>
        <th bgcolor="lightgreen">Thursday</th>
-       <td>Math</td>
-       <td>Physics</td>
-       <td>English</td>
-       <td colspan="2" bgcolor="lightpink"><b>Workshop</b></td>
+       <td>EE</td>
+       <td>Social Media</td>
+       <td>Maths</td>
    </tr>
 
    <tr>
      <th bgcolor="lightgreen">Friday</th>
-     <td>Computer</td>
-     <td>Math</td>
-     <td>Physics</td>
-     <td>English</td>
-     <td>Sports</td>
+     <td>Chem</td>
+     <td>SMP</td>
+     <td>Maths</td>
    </tr>
+
+   <tr> 
+   <th bgcolor="lightgreen">Saturday</th>
+   <td>Brunch</td>
+   <td>Social Media</td>
+   <td>CodeTantra</td>
+   </tr>
+
  </tbody>
 
  </table>
 
 </body>
-</html>
+</html>   
